@@ -1,0 +1,9 @@
+## Welcome to the SORETTA software. This code is distributed under the GNU general public license.
+
+This software is designed to assist structural biologists to:
+*	Learn more about, and to predict, protein dynamics, folding, energetics, and transition states in enzymatic reactions as a result of enzyme motion during reaction catalysis.
+*	Assist in the design process of synthetic proteins based on structure-function prediction modelling
+*	Analyze protein geometries using structure simplification methods
+*	Be a central module with core libraries and extra functions that can be added to the software.
+
+
